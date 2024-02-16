@@ -9,14 +9,14 @@
     "bprp_vs_jk": {
         "left": -1.1,
         "right": 3.4,
-        "bottom": -0.6,
-        "top": 1.5
+        "bottom": -1.1,
+        "top": 1.9
     },
 
     "bprp_vs_hk": {
         "left": -1.1,
         "right": 3.4,
-        "bottom": -0.6,
-        "top": 1.5
+        "bottom": -1.0,
+        "top": 1.2
     }
 }
